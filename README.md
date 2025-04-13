@@ -1,4 +1,4 @@
-In diesem Projekt möchte ich erweiterte Kenntnisse über das Erstellen von multiplayer Spielen mithilfe der Unreal Engine erlangen.
+In diesem Projekt möchte ich erweiterte Kenntnisse über das Erstellen von multiplayer Spielen in der Unreal Engine mit Visual Studio und C++ erlangen.
 
 Dafür bearbeite ich folgenden Udemy Kurs:
 
